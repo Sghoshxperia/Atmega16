@@ -1,5 +1,5 @@
 /*
- * SPI_OneWay_Master.c
+ * SPI_Unidirectional.c
  *
  * Created: 03-Feb-20 6:08:59 PM
  * Author : user
